@@ -1,7 +1,26 @@
 body, html {
     height: 100%;
-}
+    font-family: Quicksand;
 
+}
+p {
+
+	font-family: Quicksand;
+	font-size: 15px;
+
+}
+.formstyle{
+font-family: Quicksand;
+	font-size: 15px;
+	align-content: justify;
+
+}
+label{
+
+	font-family: Quicksand;
+	font-size: 12px;
+	align-content: justify;
+}
 .header {
 
 	background-image: linear-gradient(90deg, rgba(75, 108, 255, 0.73) 21%, rgba(98, 239, 244, 0.71) 94%) , url("../images/bgimage.jpg") ;
@@ -20,8 +39,36 @@ body, html {
 	width: 70px;
 	height: 45px;
 }
-.text-intro {
+.text-intro  {
 	font-family: roboto;
 	color: #FFF;
 	font-weight: 400px;
+}
+.cardtext-heading   {
+	font-family: roboto;
+	color: #777;
+	font-weight: 400px;
+	font-size: 25px;
+}
+.cardtext-body{
+
+	color: #777;
+	font-size: 15px;
+	font-family: Quicksand;
+
+}
+.moveform-end{
+	/*margin-right: 60%;*/
+}
+
+.form-overico{
+	margin-left: -60%;
+	color: #fff;
+	background: #6dd0ab;
+}
+.btnform-style{
+	color: #fff;
+	background: #6dd0ab;
+	font-family:Quicksand;
+	font-size: 14px;	
 }
