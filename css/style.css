@@ -86,7 +86,13 @@ label{
 
 
 .icon-images {
-	width: 295px;
-	height: 200px;
-	max-width: 300px;
+	width: 145px;
+	height: 150px;
+	max-width: 150px;
+}
+
+.icon-images:overlay {
+
+
+	
 }
