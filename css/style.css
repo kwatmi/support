@@ -116,3 +116,15 @@ label{
 	font-family: quicksand;
 
 }
+.support-section{
+	background: #cfcfcf33;
+}
+.support {
+	color: #777;
+	font-family: roboto;
+}
+
+.support-icon {
+	width: 500px;
+	height: 370px;
+}
